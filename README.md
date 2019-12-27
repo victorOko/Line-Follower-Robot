@@ -1,0 +1,2 @@
+# Line-follower-Robot-
+The general goal of the project is to construct a prototype robot that can navigate in a manner similar to warehouse robots like Kiva, which is used in Amazon warehouses. The low-cost robotic platform will navigate using black guidance tape that will be laid in a matrix pattern. The robot will navigate by following the navigation line and making appropriate decisions at junctions and at the end of each navigation line.
